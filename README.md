@@ -13,7 +13,3 @@
 ![Mawadda's GitHub Streak](https://streak-stats.demolab.com/?user=Mawadda9962&theme=graywhite&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mawadda9962&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Mawadda9962&color=0e75b6&style=flat)](https://github.com/Mawadda9962)
