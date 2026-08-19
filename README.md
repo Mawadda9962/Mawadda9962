@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I'm Mawadda ALshukaili 👋<br><br>I’m a **Full Stack Developer** and **Electronics & Instrumentation Engineer** with a Bachelor’s degree in Electronics & Instrumentation Engineering.<br><br>I’m focused on building **practical web applications, backend systems, and RESTful APIs**, with a strong interest in software engineering and problem-solving.<br><br>* 💻 Full Stack Developer<br>* ⚙️ Electronics & Instrumentation Engineer<br>* 🚀 Focused on Full Stack & Backend Development<br>* 📍 Oman<br>
+ Hi there, I'm Mawadda ALshukaili 👋<br><br>I’m a **Full Stack Developer** and **Electronics & Instrumentation Engineer** with a Bachelor’s degree in Electronics & Instrumentation Engineering.<br><br>I’m focused on building **practical web applications, backend systems, and RESTful APIs**, with a strong interest in software engineering and problem-solving.<br><br>* 💻 Full Stack Developer<br>* ⚙️ Electronics & Instrumentation Engineer<br>* 🚀 Focused on Full Stack & Backend Development<br>* 📍 Oman<br>
 
 
 ## 🌐 Socials:
